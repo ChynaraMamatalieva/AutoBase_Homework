@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "trucksName": "Mercedes",
+    "driver": "",
+    "state": "BASE"
+  },
+  {
+    "id": 2,
+    "trucksName": "Toyota",
+    "driver": "",
+    "state": "BASE"
+  },
+  {
+    "id": 3,
+    "trucksName": "Lexus",
+    "driver": "",
+    "state": "BASE"
+  }
+]

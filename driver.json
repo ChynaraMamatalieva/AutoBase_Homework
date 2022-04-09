@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sasha",
+    "bus": ""
+  },
+  {
+    "id": 2,
+    "name": "Petya",
+    "bus": ""
+  },
+  {
+    "id": 3,
+    "name": "Vasya",
+    "bus": ""
+  }
+] {
+"id": 3,
+    "name": "Malika",
+    "truck": "",
+    "state": "BASE"
+  }
+]
